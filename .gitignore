@@ -1,3 +1,5 @@
 *.csv
 /data
-/model/*
+/model
+/datasets
+.venv
