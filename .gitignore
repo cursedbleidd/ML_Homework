@@ -3,3 +3,5 @@
 /model
 /datasets
 .venv
+.ipynb_checkpoints
+iris.data
